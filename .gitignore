@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+/JavaApplication16/nbproject/private/
+/RightAngledTriangle/nbproject/private/
+/RightAngledTriangle/build/
+/Cookies/nbproject/private/
+/Cookies/build/
